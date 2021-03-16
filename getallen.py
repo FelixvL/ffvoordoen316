@@ -5,7 +5,7 @@ rondjecontrolle = 0
 print(getallen)
 for test in range(500):
 	teller = 0
-	print("=================")
+	print("===========+++======")
 	controle = 0
 	rondjecontrolle += 1
 	for getal in getallen:
